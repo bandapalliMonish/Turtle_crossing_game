@@ -1,2 +1,3 @@
 # Turtle_crossing_game
-Developed a game using Python, which involves the turtle crossing the hurdles from one end to other end.
+Engineered an engaging turtle crossing game using the turtle model in Python, challenging the player 
+to guide the turtle across obstacles to reach the other end.
